@@ -1,4 +1,4 @@
-import click
+0iimport click
 import random
 import os
 import calendar
